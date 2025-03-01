@@ -1,0 +1,27 @@
+Etapas para Criação do Repositório
+
+1. Planejamento e Definição de Requisitos
+   - Identificar todos os artefatos que precisam ser armazenados: requisitos de software, documentos de revisão e validação, diagramas, manuais, casos de testes, código-fonte, designs, etc.
+   - Definir a estrutura do repositório e as categorias para organizar os artefatos.
+
+2.Escolha da Ferramenta de Gestão de Configuração
+   - Pesquisar e selecionar uma ferramenta de gestão de configuração baseada em nuvem que atenda aos requisitos da organização e ofereça funcionalidades de controle de versão, segurança, e integração com outras ferramentas.
+
+3. Configuração do Repositório
+   - Criar o repositório na ferramenta escolhida e configurar as permissões de acesso conforme as diretrizes de governança da organização.
+   - Estabelecer processos de controle de versão para garantir que todos os artefatos sejam atualizados e gerenciados de forma eficaz.
+
+4. Governança e Compliance
+   - Implementar políticas de governança que assegurem o cumprimento dos padrões de ITIL, COBIT e ESG.
+   - Realizar auditorias periódicas para garantir que os processos estão sendo seguidos corretamente e que os artefatos estão em conformidade com as normas estabelecidas.
+
+5. Treinamento e Suporte
+   - Treinar os membros da equipe no uso da ferramenta de gestão de configuração e nos processos de governança estabelecidos.
+   - Oferecer suporte contínuo para resolver quaisquer dúvidas ou problemas que possam surgir durante o uso da ferramenta.
+
+Benefícios do Repositório
+
+- Centralização e Organização- Facilita o acesso e a gestão de todos os artefatos em um único local.
+- Segurança e Controle de Versão- Garante que os artefatos estão protegidos e que todas as alterações são registradas e monitoradas.
+- Colaboração e Transparência- Permite a colaboração entre os membros da equipe e a transparência no desenvolvimento e gestão dos projetos.
+- Conformidade e Governança- Assegura que os processos estão em conformidade com os padrões de governança e regulatórios.
